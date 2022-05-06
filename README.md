@@ -2,6 +2,10 @@
 
 Generate Mandelbrot set images.
 
+|         Default         |       Pretty Grey scale        |
+| :---------------------: | :----------------------------: |
+| ![](images/dynamic.png) | ![](images/dynamic_pretty.png) |
+
 ## Static MPI Assignment
 
 |        4 process         |        10 process         |
@@ -10,7 +14,6 @@ Generate Mandelbrot set images.
 
 ## Dynamic MPI Assignment
 
-|        10 process, Dynamic         |
-| :----------------------: |
+|   10 process, Dynamic   |
+| :---------------------: |
 | ![](images/dynamic.gif) |
-
